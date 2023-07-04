@@ -1,0 +1,1 @@
+A.csv Column 2: Min=3.00, Max=9.00, Avg=6.50, Count=6
